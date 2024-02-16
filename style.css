@@ -1,0 +1,29 @@
+.bg-light {
+    background: linear-gradient(90deg, rgba(1,95,169,1) 0%, rgba(5,135,235,1) 100%)!important;
+    border-radius: 80px !important;
+    top: 12px;
+    height: 80px;
+    justify-content: space-between;
+};
+
+#navbarNav {
+    background: linear-gradient(90deg, rgba(1,95,169,1) 0%, rgba(5,135,235,1) 100%)!important;
+    height: 171px;
+    border-radius: 2px 2px 32px 32px !important;
+    /* justify-content: center; */
+    text-align: center;
+    color: white;
+};
+
+.bg-dark {
+    background-color: #0373ca!important;
+};
+
+.card-img-overlay {
+    position: absolute;
+    top: 268px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1.25rem;
+};
